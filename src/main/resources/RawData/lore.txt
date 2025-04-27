@@ -1,0 +1,55 @@
+Eeranti Abhinav Chary
+Boston, MA | (857)-465-0190 | eeranti.a@northeastern.edu | https://www.linkedin.com/in/abhinaveeranti | https://github.com/Abhinav-1502
+EDUCATION
+Master of Science in Software Engineering Systems (Northeastern University, Boston, MA) Courses: Web Design and User Experience, Object-Oriented Design with JAVA, Program Structure and Algorithms,
+Network Structures and Cloud Computing, Software Engineering, Application Engineering and Development
+Bachelor of Technology in Computer Science Engineering (GITAM University, Visakhapatnam, AP)
+Courses: Data Structures with Python, Design Analysis and Al    gorithms, Agile Software Development
+EXPERIENCE
+Expected May 2025
+GPA 3.76/4.0
+May 2023
+Smart Knowers Jan 2023 - June 2023
+Web Developer Intern (India)
+ Developed a web application using React.js, Node.js, reducing load times by 25% and significantly enhancing performance and scalability
+ Built a high-performance backend server with Node.js and Express, implementing complex business logic and RESTful APIs to efficiently
+manage multiple client requests, resulting in smoother data flow and a 20% improvement in system performance
+ Supported the team during the migration of a legacy monolithic system to a scalable microservices architecture using Docker, Kubernetes, and
+API gateways, improving deployment efficiency by 30% and reducing system downtime by 20% through automated scaling and load balancing
+ Implemented secure authentication and authorization protocols using OAuth 2.0 and JWT under the guidance of senior developers across web
+and mobile applications, enhancing the platform's security compliance and reducing unauthorized access incidents by 35%
+ Collaborated with cross-functional teams to implement a customer feedback tracking feature, improving client satisfaction by 10% and providing
+actionable insights that led to continuous product enhancements and better user experience overall
+Phoenix Global May 2022 - Aug 2022
+Software Engineer Intern (India)
+ Designed an automated testing framework with Selenium and JUnit, boosting test coverage by 50% and reducing manual testing by 35%
+ Integrated third-party RESTful APIs into the application using Python and Django, enhancing functionality and streamlining external service
+communication, reducing integration issues by 15% and improving overall system efficiency
+ Developed a job processing system using Redis and RabbitMQ to efficiently manage high-traffic asynchronous tasks, improving system
+performance and reducing request backlogs by 25%, resulting in faster processing and enhanced system scalability
+ Created a comprehensive API documentation using Swagger, enabling better internal and external stakeholder collaboration and reducing
+integration issues by 20% across multiple development teams
+ACADEMIC PROJECTS
+Roomies May 2024
+(Full-Stack Web Page) (Northeastern University)
+ Developed a React-based web application for room and roommate searches, introducing advanced filters enhancing user engagement and retention
+ Designed front end using React.js and Material UI, improving user experience and increasing conversion rates and session duration
+ Implemented a robust back end with Node.js, Express.js, and MongoDB, integrated map-based search and real-time chat using third party APIs,
+reducing communication latency by 50%
+Career Craft Apr 2024
+(Java FX Application) (Northeastern University)
+ Created a JavaFX job application system with MVC architecture, streamlining job tracking and, scheduling to enhance job search efficiency
+ Optimized data retrieval by using custom data structures like Quick Sort and Binary Search Trees, improving sorting and searching performance
+ Integrated MongoDB with RESTful APIs and GridFS for efficient file storage, optimizing CRUD operations for scalable data management
+My Fitness May 2023
+(Full-Stack Web Page) (GITAM University)
+ Developed a full-stack fitness website for creating personalized workout routines and diet plans aligned with fitness goals
+ Employed HTML, PHP, CSS with Bootstrap, and JavaScript to design an immersive user interface, ensuring an intuitive experience
+ Seamlessly integrated MySQL, Node.js, and AngularJS to establish a robust system architecture, facilitating efficient data management
+SKILLS
+Programming Languages: Web Technologies: Cloud: Databases: Software and IDE: Others: JAVA, JavaScript, Python, C, C++
+HTML, CSS, SCSS, Node.js, Angular.js, Express, React, TypeScript, Selenium, Flask
+AWS, Microsoft Azure, Google Cloud
+MySQL, MongoDB, Postgre SQL, NoSQL, Oracle
+VS Code, Eclipse IDE, Jupyter Notebook, Google Colab, GIT
+Collaborative, Critical Thinking, Adaptable, Problem-solving, Fast learner

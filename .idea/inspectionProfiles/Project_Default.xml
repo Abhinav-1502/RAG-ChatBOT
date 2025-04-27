@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="RawUseOfParameterizedType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="ChatBot_Domain_Based-AKKA-LLM" />
+          <option value="ChatBot_Domain_Based-AKKA-LLM" />
+          <option value="ChatBot_Domain_Based-AKKA-LLM" />
+          <option value="ChatBot_Domain_Based-AKKA-LLM" />
+          <option value="ChatBot_Domain_Based-AKKA-LLM" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="ch.qos.logback:logback-classic:1.5.12" />
+          <option value="org.apache.tomcat.embed:tomcat-embed-core:10.1.33" />
+          <option value="ch.qos.logback:logback-core:1.5.12" />
+          <option value="org.scala-lang:scala-library:2.13.8" />
+          <option value="com.typesafe.akka:akka-actor_2.13:2.6.19" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
